@@ -1,4 +1,3 @@
 - I'm Corentin CUZEAU
-- French Full Stack Developper in study
-- Management Information System - Expert Developper
+- French Full Stack Developper
 - Burgundy
